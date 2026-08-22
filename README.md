@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 📊 Demographic Data Analyzer
 
 ### Analyzing US Census demographic data using Pandas.
